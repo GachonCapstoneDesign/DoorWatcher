@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "124284006446",
+    "project_id": "healthtrainer-1312"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124284006446:android:dd84826f7c6ccf05",
+        "android_client_info": {
+          "package_name": "com.example.parkdusang.testgcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfWgHuJUqCt0zAzk0l-b9nwdelOw5Q8xs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
