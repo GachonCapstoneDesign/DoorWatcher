@@ -24,14 +24,16 @@
 - [Project outline](https://github.com/GachonCapstoneDesign/DoorWatcher/wiki/Project-outline)
 - [How to install](https://github.com/GachonCapstoneDesign/DoorWatcher/wiki/1.-Raspberry-pi-OS-Install)
 - [Install the project environment](https://github.com/GachonCapstoneDesign/DoorWatcher/wiki/2.-Installing-the-Library)
--  DoorWatcher full project-[Module.1](https://github.com/GachonCapstoneDesign/DoorWatcher/wiki/Module1.-DoorWatcher) Streaming-[Module.2](https://github.com/GachonCapstoneDesign/DoorWatcher/wiki/Module2.-Streaming) Unsuspected person detection-[Module.3](https://github.com/GachonCapstoneDesign/DoorWatcher/wiki/Module3.-Unsuspected-person-detection) 
+-  DoorWatcher full project-[Module.1](https://github.com/GachonCapstoneDesign/DoorWatcher/wiki/Module1.-DoorWatcher)   
+-  Streaming-[Module.2](https://github.com/GachonCapstoneDesign/DoorWatcher/wiki/Module2.-Streaming)   
+-  Unsuspected person detection-[Module.3](https://github.com/GachonCapstoneDesign/DoorWatcher/wiki/Module3.-Unsuspected-person-detection)  
 
 ## Setup
 
-0. :star: to the project. :metal:
-2. Fork the project [Indigo](https://github.com/sergiokopplin/indigo/fork)
-3. Edit `_config.yml` with your data (check <a href="README.md#settings">settings</a> section)
-4. Write some posts :bowtie:
+0. :star: Install OS on raspberry pi
+2. Install the following environment. -- FlaskFramework, OpenCV,OpenCV2
+3. Fork the project [DoorWatcher](https://github.com/GachonCapstoneDesign/DoorWatcher)
+4. For details, refer to [WIKI](https://github.com/GachonCapstoneDesign/DoorWatcher/wiki/Project-outline).
 
 If you want to test locally on your machine, do the following steps also:
 
