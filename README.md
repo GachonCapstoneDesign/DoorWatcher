@@ -40,13 +40,13 @@
 You must set up the camera before running the project.  
 
 ```
-dmdkdkdkdkdkdkddkk
+Click Menu -> Preferences -> Raspberry Pi Configuration  
+Ensure the camera software is enabled
 ...
+If you skip this task, it may not work properly.
 
 
 ```
-
-
 ---
 
 
