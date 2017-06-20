@@ -24,7 +24,7 @@
 - [Project outline](https://github.com/GachonCapstoneDesign/DoorWatcher/wiki/Project-outline)
 - [How to install](https://github.com/GachonCapstoneDesign/DoorWatcher/wiki/1.-Raspberry-pi-OS-Install)
 - [Install the project environment](https://github.com/GachonCapstoneDesign/DoorWatcher/wiki/2.-Installing-the-Library)
-- DoorWatcher [Module.1](https://github.com/GachonCapstoneDesign/DoorWatcher/wiki/Module1.-DoorWatcher) [Module.2](https://github.com/GachonCapstoneDesign/DoorWatcher/wiki/Module2.-Streaming) [Module.3](https://github.com/GachonCapstoneDesign/DoorWatcher/wiki/Module3.-Unsuspected-person-detection) 
+-  DoorWatcher full project-[Module.1](https://github.com/GachonCapstoneDesign/DoorWatcher/wiki/Module1.-DoorWatcher) Streaming-[Module.2](https://github.com/GachonCapstoneDesign/DoorWatcher/wiki/Module2.-Streaming) Unsuspected person detection-[Module.3](https://github.com/GachonCapstoneDesign/DoorWatcher/wiki/Module3.-Unsuspected-person-detection) 
 
 ## Setup
 
@@ -61,4 +61,4 @@ Check the [FAQ](./FAQ.md) if you have any doubt or problem.
 
 ---
 
-[MIT](http://kopplin.mit-license.org/) License © Gathon VIV
+
