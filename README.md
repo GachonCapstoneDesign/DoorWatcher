@@ -21,11 +21,10 @@
 </p>
 
 ## What has inside
-
-- [Jekyll](https://jekyllrb.com/), [Sass](http://sass-lang.com/) ~[RSCSS](http://rscss.io/)~ and [SVG](https://www.w3.org/Graphics/SVG/)
-- Tests with [Travis](https://travis-ci.org/)
-- Google Speed: [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F);
-- No JS. :sunglasses:
+- [Project outline](https://github.com/GachonCapstoneDesign/DoorWatcher/wiki/Project-outline)
+- [How to install](https://github.com/GachonCapstoneDesign/DoorWatcher/wiki/1.-Raspberry-pi-OS-Install)
+- [Install the project environment](https://github.com/GachonCapstoneDesign/DoorWatcher/wiki/2.-Installing-the-Library)
+- DoorWatcher [Module.1](https://github.com/GachonCapstoneDesign/DoorWatcher/wiki/Module1.-DoorWatcher) [Module.2](https://github.com/GachonCapstoneDesign/DoorWatcher/wiki/Module2.-Streaming) [Module.3](https://github.com/GachonCapstoneDesign/DoorWatcher/wiki/Module3.-Unsuspected-person-detection) 
 
 ## Setup
 
@@ -62,4 +61,4 @@ Check the [FAQ](./FAQ.md) if you have any doubt or problem.
 
 ---
 
-[MIT](http://kopplin.mit-license.org/) License © Sérgio Kopplin
+[MIT](http://kopplin.mit-license.org/) License © Gathon VIV
